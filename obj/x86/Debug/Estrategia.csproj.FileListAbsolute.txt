@@ -1,0 +1,17 @@
+/Users/jhontorres/Projects/PatronesdeDiseño/PatronesdeDiseño/bin/Debug/PatronesdeDiseño.exe
+/Users/jhontorres/Projects/PatronesdeDiseño/PatronesdeDiseño/bin/Debug/PatronesdeDiseño.pdb
+/Users/jhontorres/Projects/PatronesdeDiseño/PatronesdeDiseño/obj/x86/Debug/Estrategia.csproj.CoreCompileInputs.cache
+/Users/jhontorres/Projects/PatronesdeDiseño/PatronesdeDiseño/obj/x86/Debug/PatronesdeDiseño.exe
+/Users/jhontorres/Projects/PatronesdeDiseño/PatronesdeDiseño/obj/x86/Debug/PatronesdeDiseño.pdb
+/Users/jhontorres/Projects/PatronesdeDiseño/PatronesdeDiseño/bin/Debug/PatronesdeDiseño.exe
+/Users/jhontorres/Projects/PatronesdeDiseño/PatronesdeDiseño/bin/Debug/PatronesdeDiseño.pdb
+/Users/jhontorres/Projects/PatronesdeDiseño/PatronesdeDiseño/obj/x86/Debug/Estrategia.csprojAssemblyReference.cache
+/Users/jhontorres/Projects/PatronesdeDiseño/PatronesdeDiseño/obj/x86/Debug/Estrategia.csproj.CoreCompileInputs.cache
+/Users/jhontorres/Projects/PatronesdeDiseño/PatronesdeDiseño/obj/x86/Debug/PatronesdeDiseño.exe
+/Users/jhontorres/Projects/PatronesdeDiseño/PatronesdeDiseño/obj/x86/Debug/PatronesdeDiseño.pdb
+/Users/jhontorres/Projects/patronesUdistrital/PatronEstrategia/bin/Debug/PatronesdeDiseño.exe
+/Users/jhontorres/Projects/patronesUdistrital/PatronEstrategia/bin/Debug/PatronesdeDiseño.pdb
+/Users/jhontorres/Projects/patronesUdistrital/PatronEstrategia/obj/x86/Debug/Estrategia.csprojAssemblyReference.cache
+/Users/jhontorres/Projects/patronesUdistrital/PatronEstrategia/obj/x86/Debug/Estrategia.csproj.CoreCompileInputs.cache
+/Users/jhontorres/Projects/patronesUdistrital/PatronEstrategia/obj/x86/Debug/PatronesdeDiseño.exe
+/Users/jhontorres/Projects/patronesUdistrital/PatronEstrategia/obj/x86/Debug/PatronesdeDiseño.pdb

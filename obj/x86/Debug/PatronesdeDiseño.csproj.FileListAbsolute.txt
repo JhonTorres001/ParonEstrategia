@@ -1,0 +1,6 @@
+/Users/jhontorres/Projects/PatronesdeDiseño/PatronesdeDiseño/bin/Debug/PatronesdeDiseño.exe
+/Users/jhontorres/Projects/PatronesdeDiseño/PatronesdeDiseño/bin/Debug/PatronesdeDiseño.pdb
+/Users/jhontorres/Projects/PatronesdeDiseño/PatronesdeDiseño/obj/x86/Debug/PatronesdeDiseño.csprojAssemblyReference.cache
+/Users/jhontorres/Projects/PatronesdeDiseño/PatronesdeDiseño/obj/x86/Debug/PatronesdeDiseño.csproj.CoreCompileInputs.cache
+/Users/jhontorres/Projects/PatronesdeDiseño/PatronesdeDiseño/obj/x86/Debug/PatronesdeDiseño.exe
+/Users/jhontorres/Projects/PatronesdeDiseño/PatronesdeDiseño/obj/x86/Debug/PatronesdeDiseño.pdb
